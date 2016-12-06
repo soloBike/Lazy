@@ -2,8 +2,8 @@
 -------------
 #这个是我自己收集整理的一些常用的工具类
 ##有好的工具类，欢迎提交PR
-### 作者微博: [@海淀区小鬼风尘](http://weibo.com/2675061813/profile?topnav=1&wvr=6)
-###  QQ群欢迎大家加入：391513287
+### 作者微博: [@david](http://weibo.com/u/5439466748)
+###  QQ群欢迎大家加入：279126311
 
 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
